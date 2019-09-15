@@ -10,6 +10,11 @@ estar ordenados de la siguiente manera:
         |--archivos_excel_de_cada_mes
     |--2009
         |--archivos_excel_de_cada_mes
+
+Los archivos excel se pueden obtener de la siguinte dirección:
+
+URL: http://www.sbs.gob.pe/app/stats_net/stats/EstadisticaBoletinEstadistico.aspx?p=1#
+
 '''
 
 import pandas as pd
