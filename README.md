@@ -1,2 +1,2 @@
-# University-Projects
-Códigos en R y Python de proyectos realizados en la universidad.
+# Research-Projects
+Códigos en R y Python de proyectos de investigación.
