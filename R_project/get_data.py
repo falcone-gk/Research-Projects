@@ -29,6 +29,8 @@ def get_values(fullpath, months, name_col_val, rows_des, col_compar, year, code_
     de tipo string.
 
         Ejemplo:
+            import os
+            
             mainpath = os.getcwd()
             file_name = Carpeta_princpal
             fullpath = os.join(mainpath, file_name)
