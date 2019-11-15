@@ -1,2 +1,2 @@
-# Research-Projects
-Códigos en R y Python de proyectos de investigación.
+# Spread Bancario
+Trabajo realizado para observar los motivos por el cual el spread bancario en el Perú resulta ser muy alto. Se han utilizado modelos de Panel Data para la explicación de este problema, en el cuaderno de Jupyter Notebook se muestra todos los pasos realizados en la investigación de este problema, además, se usó el código **Get_Data.py** para extraer los valores necesarios, debido a que son varios bancos los que se han incluido y la cantidad de años en los que se va a analizar, fue necesario realizar el código para extraer de manera instantánea los valores deseados.
